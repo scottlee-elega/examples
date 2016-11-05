@@ -1,20 +1,8 @@
-There
-is
-some
-text
-in
-this
-file
-to read and print.
-It 
-really
-doesn't matter
-what kind of
-crazy # characters
-or sentences
-or words
-are thrown in here.
-This also
-happens to be
-the worst poem.
-Ever.
+Time
+to
+change
+this to some other
+text that is 
+totally different.
+Like
+for reals.
